@@ -1,2 +1,2 @@
 # data_practicum
-Data for Yandex Practikum course
+Data for Yandex Practicum course
